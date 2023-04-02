@@ -1,0 +1,1 @@
+export {default as TextInputNative} from './text-input-native';
